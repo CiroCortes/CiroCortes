@@ -6,23 +6,23 @@ I'm a passionate software developer with experience building scalable, user-frie
 
 Whether it's crafting mobile apps with Flutter, building robust backends in Python, or architecting enterprise solutions in Java/Kotlin, I bring creativity and precision to every project.
 
-- 💻 Currently working on automation and AI-powered tools for business operations
-- 📱 Focused on mobile-first experiences and backend integrations
-- 🧠 Always learning — currently exploring cloud-native development and AI APIs
+- 💻 Currently working on automation and AI-powered tools for business operations  
+- 📱 Focused on mobile-first experiences and backend integrations  
+- 🧠 Always learning — currently exploring cloud-native development and AI APIs  
 
-## 🛠️ Tech Stack
+---
 
-**Languages:**  
-`Kotlin` `Python` `Dart` `Java`
+## 🧰 Tech Stack
 
-**Frameworks & Tools:**  
-`Android Studio``Flutter` `Spring Boot` `FastAPI` `Firebase` `GCP` `Git` `Docker`
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+</p>
 
-**Other Skills:**  
-- RESTful API design  
-- WhatsApp chatbot development  
-- Cloud deployment (GCP, Firebase)  
-- Agile methodologies & team collaboration
+---
 
 ## 📈 GitHub Stats
 
@@ -31,8 +31,10 @@ Whether it's crafting mobile apps with Flutter, building robust backends in Pyth
 ### 📊 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CiroCortes&layout=compact&theme=radical)
 
+---
+
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn]https://www.linkedin.com/in/ciro-cortes-gonzalez/
+- 💼 [LinkedIn](https://www.linkedin.com/in/ciro-cortes-gonzalez/)
 
 ---
